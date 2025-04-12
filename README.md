@@ -71,4 +71,21 @@ Join our community of developers creating universal apps.
 =======
 # StyleSense
 A smart fashion and wardrobe management app built with Expo, featuring weather-based outfit suggestions, virtual try-on, zodiac styling, community sharing, and sustainability tracking
->>>>>>> c87770d167119aa930b3d92e823ccfe72c1b2086
+ 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0d6a0347-d273-430c-86b6-72627c964c35" width="1000"/></td>
+    <td><img src="https://github.com/user-attachments/assets/32b45076-7673-464a-8285-0e0aebdc2595" width="1000"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ea9e68a8-e615-42f7-9f2d-72b81b1dcf88" width="1000"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f2cdf567-993c-4ec8-87f1-e24af18ce2e4" width="1000"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4bedfbbe-caa5-4cad-a40f-dab0a73302f0" width="1000"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d49c8e80-82bc-46fb-988f-868e10df3154" width="1000"/></td>
+    <td><img src="https://github.com/user-attachments/assets/89b3f309-e69b-4db0-9409-d02a69e4716e" width="1000"/></td>
+   
+  </tr>
+</table>
+
+
+
+
