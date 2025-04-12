@@ -1,4 +1,23 @@
 <<<<<<< HEAD
+## 🚀 Getting Started
+# 👗 StyleSense
+
+A smart fashion and wardrobe management app built with Expo, featuring:
+
+- 🌤️ Weather-based outfit suggestions  
+- 🧥 Virtual Try-On experience  
+- ♓ Zodiac-based style guidance  
+- 👥 Community polls and shared looks  
+- 🌱 Sustainability tracking for eco-friendly choices  
+- 🗓️ Event-based outfit planning  
+- 📲 Responsive design with light/dark theme
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/SatishGupta8591/StyleSense.git
+cd StyleSense
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
